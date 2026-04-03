@@ -56,4 +56,4 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 
 ## 📂 Repository Contents
 - **Fashion Product Classification with Multimodal.ipynb:** The complete notebook containing data preprocessing, model building, and evaluation.
-- **FashionProductClassification_Report.pdf:** A detailed research report covering the methodology and analysis.
+- **FashionProductClassificationReport.pdf:** A detailed research report covering the methodology and analysis.
