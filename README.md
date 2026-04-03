@@ -36,3 +36,22 @@ To run this project locally or on Kaggle/Colab, follow these steps:
    ```bash
    git clone [https://github.com/SakibJahid/Fashion-Product-Classification.git](https://github.com/SakibJahid/Fashion-Product-Classification.git)
    cd Fashion-Product-Classification
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
+   ```
+
+3. **Dataset Setup:**
+   Download the dataset from [Kaggle](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset) and ensure the file paths match the notebook configuration.
+
+4. **Run the Notebook:**
+   Open `Fashion Product Classification with Multimodal.ipynb` in Jupyter Notebook or upload it to Kaggle/Colab to start training. 
+
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## 📂 Repository Contents
+- **Fashion Product Classification with Multimodal.ipynb:** The complete notebook containing data preprocessing, model building, and evaluation.
+- **FashionProductClassification_Report.pdf:** A detailed research report covering the methodology and analysis.
