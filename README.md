@@ -34,7 +34,9 @@ To run this project locally or on Kaggle/Colab, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SakibJahid/Fashion-Product-Classification.git](https://github.com/SakibJahid/Fashion-Product-Classification.git)
+   git clone https://github.com/SakibJahid/Fashion-Product-Classification.git
+   ```
+   ```bash
    cd Fashion-Product-Classification
    ```
 
